@@ -11,7 +11,7 @@ YTM 8.22.2 [v8.20.4 for iOS15]
 
 https://armconverter.com/decryptedappstore/us/youtube     ||      https://decrypt.day
 
-https://github.com/oldman20/YouTube-Reborn-v5 4.2.9 arm = rootful || arm64 = rootless
+https://github.com/oldman20/YouTube-Reborn-v5 4.2.9 [arm = rootful || arm64 = rootless]
 
 https://github.com/dayanch96/YTLite 5.2B1 (has no PiP mode)
 
