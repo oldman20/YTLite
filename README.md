@@ -11,6 +11,8 @@ YTM 8.22.2 [v8.20.4 for iOS15]
 
 https://armconverter.com/decryptedappstore/us/youtube     ||      https://decrypt.day
 
+https://github.com/oldman20/YouTube-Reborn-v5 4.2.9
+
 https://github.com/dayanch96/YTLite 5.2B1 (has no PiP mode)
 
 https://github.com/thaibm92/YouPiP 1.12.7 (since 1.8.15 error loading with YT 19.43.2)
