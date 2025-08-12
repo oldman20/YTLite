@@ -13,7 +13,7 @@ https://armconverter.com/decryptedappstore/us/youtube     ||      https://decryp
 
 https://github.com/oldman20/YouTube-Reborn-v5 4.2.9 [arm = rootful || arm64 = rootless]
 
-https://github.com/dayanch96/YTLite 5.2B1 (has no PiP mode)
+https://github.com/dayanch96/YTLite 5.2B3 (has no PiP mode??)
 
 https://github.com/thaibm92/YouPiP 1.12.7 (since 1.8.15 error loading with YT 19.43.2)
 
