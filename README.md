@@ -27,6 +27,8 @@ https://github.com/34306/Patched-TS-App 1.0
 Hello
 I created this YTLite fork and added more tweaks similar to YTLitePlus
 You can fork my repo to build IPA
+
+https://github.com/diarrhea3/YTLiteDiarrhea
 ```
 
 # YouTube Plus (ex. YTLite)
