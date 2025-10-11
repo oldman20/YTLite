@@ -3,7 +3,7 @@
 
  * Others:
 
-https://filebin.net/vll71m29in1haf83 17/10 Expire | OR https://temp.sh/upload
+https://filebin.net/vll71m29in1haf83 17/10 Expire
 
 YT 20.40.4 [Since v20.22.1 require iOS 16+, so v20.21.6 for iOS15]
 
