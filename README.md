@@ -21,7 +21,7 @@ https://github.com/kekeimiku/LuckySpeeder/releases 1.0.2 [use arm64-apple-ios ve
 
 https://github.com/34306/Patched-TS-App 1.0
 
-`C:\Users\Admin\AppData\Local\Sideloadly\MATERIALS`
+`C:\Users\Chuctran\AppData\Local\Sideloadly\MATERIALS`
 
 ```
 https://github.com/diarrhea3/YTLiteDiarrhea
