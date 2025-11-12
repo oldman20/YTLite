@@ -2,6 +2,8 @@
   *After downloading recommend delete the release to avoid any problems with Go.ogle*
 
  * Others:
+ * https://github.com/diarrhea3/EeveeSpotifyDiarrhea
+ * https://github.com/diarrhea3/YTLiteDiarrhea/releases
 
 https://filebin.net/gcxwgbfx8bwuoyxj 18/11 Expire
 
