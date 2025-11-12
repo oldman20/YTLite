@@ -3,7 +3,7 @@
 
  * Others:
 
-https://filebin.net/0yij9t0ww8emmof2 07/11 Expire
+https://filebin.net/gcxwgbfx8bwuoyxj 18/11 Expire
 
 YT 20.42.3 [Since v20.22.1 require iOS 16+, so v20.21.6 for iOS15]
 
