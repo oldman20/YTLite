@@ -1,10 +1,6 @@
 <p align="center">
   *After downloading recommend delete the release to avoid any problems with Go.ogle*
 
- * Others: (For iOS15)
- * https://github.com/diarrhea3/EeveeSpotifyDiarrhea
- * https://github.com/diarrhea3/YTLiteDiarrhea/releases
-
 https://filebin.net/e0uxlx79gb1m6moo 28/12/25 Expire
 
 YT 20.50.9 [Since v20.22.1 require iOS 16+, so v20.21.6 for iOS15]
@@ -25,6 +21,10 @@ https://github.com/34306/Patched-TS-App 1.0
 
 `C:\Users\Chuctran\AppData\Local\Sideloadly\MATERIALS`
 
+
+ * Others: (For iOS15)
+ * https://github.com/diarrhea3/EeveeSpotifyDiarrhea
+ * https://github.com/diarrhea3/YTLiteDiarrhea/releases
 ```
 https://github.com/diarrhea3/YTLiteDiarrhea
 
