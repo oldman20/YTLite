@@ -36,6 +36,8 @@ https://github.com/Tonwalter888/YTLitePlusEXTRA
 # YouTube Plus (ex. YTLite)
 A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
 
+<img width="697" height="464" alt="Compare" src="https://github.com/user-attachments/assets/bd287898-6dd2-4761-8cb5-7028f911815f" />
+
 ## Table of Contents
 - [Screenshots](#screenshots)
 - [Main Features](#main-features)
