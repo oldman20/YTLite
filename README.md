@@ -31,6 +31,7 @@ https://github.com/diarrhea3/YTLiteDiarrhea
 Hello
 I created this YTLite fork and added more tweaks similar to YTLitePlus
 https://github.com/Tonwalter888/YTLitePlusEXTRA
+Fork: https://github.com/Thunderdaemon/YTLitePlusEXTRA
 ```
 
 # YouTube Plus (ex. YTLite)
