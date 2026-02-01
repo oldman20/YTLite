@@ -1,7 +1,7 @@
 <p align="center">
   *After downloading recommend delete the release to avoid any problems with Go.ogle*
 
-https://filebin.net/e4d4fqtur0guxkyv 31/01/26 Expire
+https://filebin.net/e4d4fqtur0guxkyv 07/02/26 Expire
 
 YT 21.04.2 [Since v20.22.1 require iOS 16+, so v20.21.6 for iOS15]
 
