@@ -5,7 +5,7 @@ https://filebin.net/e4d4fqtur0guxkyv 12/02/26 Expire
 
 YT 21.05.3 [Since v20.22.1 require iOS 16+, so v20.21.6 for iOS15]
 
-YTM 9.04.1 [v8.20.4 for iOS15]
+YTM 9.05.2 [v8.20.4 for iOS15]
 
 https://armconverter.com/decryptedappstore/us/youtube     ||      https://decrypt.day
 
