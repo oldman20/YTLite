@@ -7,7 +7,7 @@ YT 21.05.3 [Since v20.22.1 require iOS 16+, so v20.21.6 for iOS15]
 
 YTM 9.05.2 [v8.20.4 for iOS15]
 
-https://armconverter.com/decryptedappstore/us/youtube     ||      https://decrypt.day
+https://armconverter.com/decryptedappstore/us/youtube     ||      [https://decrypt.day](https://decrypt.day/search?q=youtube)
 
 [arm = rootful || arm64 = rootless]
 
