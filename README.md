@@ -14,6 +14,10 @@ YTM 9.12.2 ~[v8.20.4 for iOS15]~
 
 https://github.com/Mine-Fork-Project/YTLitePlusEXTRA
 
+**App crashing when trying to pause shorts or even when trying to play a video**
+`Try turn off the slider color option or set to default.
+it in settings > Tweaks > YouSlider`
+
 https://github.com/Lolendor/LBox/
 
 https://github.com/dayanch96/YTLite 5.2b4 (has no PiP mode??)
