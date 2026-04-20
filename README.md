@@ -12,7 +12,7 @@ YTM 9.15.2 ~[v8.20.4 for iOS15]~
 
 [arm = rootful || arm64 = rootless]
 
-https://github.com/Mine-Fork-Project/YTLitePlusEXTRA Not enable DontEatMyContent
+https://github.com/Mine-Fork-Project/YTLitePlusEXTRA Not enable Integrate DontEatMyContent
 
 **App crashing when trying to pause shorts or even when trying to play a video**
 
