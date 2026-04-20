@@ -21,7 +21,7 @@ it in settings > Tweaks > YouSlider`
 
 https://github.com/Lolendor/LBox/
 
-https://github.com/dayanch96/YTLite 5.2b4 (has no PiP mode??)
+https://github.com/dayanch96/YTLite 5.2 (has no PiP mode??)
 
 https://github.com/thaibm92/YouPiP 1.12.7 (since 1.8.15 error loading with YT 19.43.2)
 
