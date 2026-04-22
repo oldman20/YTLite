@@ -31,7 +31,7 @@ https://github.com/Lolendor/LBox/
 
 https://github.com/dayanch96/YTLite 5.2 *REQUIRE SUBSCRIBE*, USE 5.2B4 (has no PiP mode??)
 
-https://github.com/thaibm92/YouPiP 1.12.7 (since 1.8.15 error loading with YT 19.43.2)
+https://github.com/thaibm92/YouPiP 1.12.7
 
 https://github.com/kekeimiku/LuckySpeeder/releases 1.0.2 [use arm64-apple-ios verison]
 
