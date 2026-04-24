@@ -22,7 +22,7 @@ YTM 9.16.4 ~[v8.20.4 for iOS15]~
 
 https://github.com/Mine-Fork-Project/YTLitePlusEXTRA 
 
-[FREE ALTERNATIVE TWEAK: YouProEXTRA](https://github.com/jaydenjcpy/YouProEXTRA) Added extra features just like YTLitePlusEXTRA but for completely free
+[FREE ALTERNATIVE TWEAK: YouProEXTRA](https://github.com/oldman20/YouProEXTRA) Added extra features just like YTLitePlusEXTRA but for completely free
 
 **App crashing when trying to pause shorts or even when trying to play a video**
 
