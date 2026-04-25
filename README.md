@@ -30,6 +30,8 @@ https://github.com/iKarwan/YTKillerPlus
 
 [Diutube](https://ios.codevn.net/diutube-for-youtube/)
 
+https://github.com/driftywinds
+
 **App crashing when trying to pause shorts or even when trying to play a video**
 
 `Try turn off the slider color option or set to default.
