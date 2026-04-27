@@ -41,7 +41,7 @@ it in settings > Tweaks > YouSlider`
 
 https://github.com/Lolendor/LBox/
 
-https://github.com/dayanch96/YTLite 5.2 *REQUIRE SUBSCRIBE*, USE 5.2B4 (has no PiP mode??)
+https://github.com/dayanch96/YTLite ~5.2 *REQUIRE SUBSCRIBE*~, USE 5.2B4 (has no PiP mode??)
 
 https://github.com/thaibm92/YouPiP 1.12.7
 
