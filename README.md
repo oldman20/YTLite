@@ -7,7 +7,7 @@ Infuse 8.4.2
 
 FB 558.0.0
 
-Messenger 558.1.0
+Messenger 558.2.0
 
 https://filebin.net/5cg6y0ju42fot8ib 28/04/26 Expire
 OR use https://catbox.moe/ keep files FOREVER
