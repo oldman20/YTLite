@@ -38,11 +38,11 @@ https://github.com/oldman20/KiraTuno2.0
 
 https://github.com/Mine-Fork-Project/KiraTuno   FORK OF   [FREE ALTERNATIVE TWEAK: YouProEXTRA](https://github.com/oldman20/YouProEXTRA) Added extra features just like YTLitePlusEXTRA but for completely free
 
-https://github.com/iKarwan/YTKillerPlus
-
 [YouTubeOLED](https://apps.apptesters.org)
 
 [Diutube](https://ios.codevn.net/diutube-for-youtube/)
+
+https://github.com/iKarwan/YTKillerPlus
 
 https://github.com/driftywinds
 
