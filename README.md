@@ -32,7 +32,9 @@ Lời cảnh báo về "Cái bẫy tính năng": Đừng cài uYouEnhanced chỉ
 Lời khuyên cuối: Nếu muốn sự an tâm lâu dài, hãy dùng YTLitePlusEXTRA. Nếu muốn app chạy như "hàng xịn" của Google, hãy dùng KiraTuno 2.0. Các bản còn lại chỉ nên dùng khi bạn có nhu cầu cực kỳ đặc thù như Gonerino (lọc từ khóa/kênh) hoặc YouMute (YouProEXTRA)
 =============
 
-https://github.com/Mine-Fork-Project/YTLitePlusEXTRA 
+https://github.com/Mine-Fork-Project/YTLitePlusEXTRA
+
+https://github.com/oldman20/KiraTuno2.0
 
 https://github.com/Mine-Fork-Project/KiraTuno   FORK OF   [FREE ALTERNATIVE TWEAK: YouProEXTRA](https://github.com/oldman20/YouProEXTRA) Added extra features just like YTLitePlusEXTRA but for completely free
 
@@ -43,10 +45,6 @@ https://github.com/iKarwan/YTKillerPlus
 [Diutube](https://ios.codevn.net/diutube-for-youtube/)
 
 https://github.com/driftywinds
-
-https://github.com/NeonKokoro/KiraTuno2.0
-
-https://github.com/oldman20/YouMod
 
 **App crashing when trying to pause shorts or even when trying to play a video**
 
