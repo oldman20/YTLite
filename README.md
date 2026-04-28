@@ -36,7 +36,7 @@ https://github.com/NeonKokoro/KiraTuno   |  https://github.com/NeonKokoro/KiraTu
 
 https://github.com/Mine-Fork-Project/KiraTuno
 
-https://github.com/Tonwalter888/YouMod
+https://github.com/Tonwalter888/YouMod  |  https://github.com/jaydenjcpy/YouMod/
 
 **App crashing when trying to pause shorts or even when trying to play a video**
 
