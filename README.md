@@ -28,6 +28,7 @@ Sự trỗi dậy của YouMod (KiraTuno 2.0): Nếu bạn ghét việc app mod 
 Lời cảnh báo về "Cái bẫy tính năng": Đừng cài uYouEnhanced chỉ vì thấy nó quảng cáo nhiều chức năng. Đối với iOS, càng nhiều tweak can thiệp vào quá trình render video, tỉ lệ rớt khung hình và crash app càng cao. Hãy ưu tiên các bản build dùng nhân YTLite hoặc YouMod.
 
 Lời khuyên cuối: Nếu muốn sự an tâm lâu dài, hãy dùng YTLitePlusEXTRA. Nếu muốn app chạy như "hàng xịn" của Google, hãy dùng KiraTuno 2.0. Các bản còn lại chỉ nên dùng khi bạn có nhu cầu cực kỳ đặc thù như Gonerino (lọc từ khóa/kênh) hoặc YouMute (YouProEXTRA)
+
 =============
 
 https://github.com/Mine-Fork-Project/YTLitePlusEXTRA
