@@ -20,6 +20,18 @@ YTM 9.16.4 ~[v8.20.4 for iOS15]~
 
 [arm = rootful || arm64 = rootless]
 
+=============
+<img width="1465" height="237" alt="image" src="https://github.com/user-attachments/assets/18a30adb-c019-44bd-bad6-ecdc506fde2a" />
+
+Sự lựa chọn "Vàng" (YTLitePlusEXTRA): Đây là điểm rơi phong độ tốt nhất hiện nay. Nó kế thừa sự mượt mà của nhân YTLite nhưng bù đắp được sự thiếu hụt tính năng bằng các module "EXTRA". Trong R&D, đây là phương án tối ưu hóa quy trình thành công nhất.
+
+Sự trỗi dậy của YouMod (KiraTuno 2.0): Nếu bạn ghét việc app mod trông quá khác biệt so với app gốc, hãy chọn YouMod. Nó không "chế" thêm tính năng mà chỉ "mở khóa" những gì Google đã khóa. Đây là cách tiếp cận can thiệp sâu vào hệ thống (Deep Hooking) thay vì đắp thêm lớp vỏ bên ngoài.
+
+Lời cảnh báo về "Cái bẫy tính năng": Đừng cài uYouEnhanced chỉ vì thấy nó quảng cáo nhiều chức năng. Đối với iOS, càng nhiều tweak can thiệp vào quá trình render video, tỉ lệ rớt khung hình và crash app càng cao. Hãy ưu tiên các bản build dùng nhân YTLite hoặc YouMod.
+
+Lời khuyên cuối: Nếu muốn sự an tâm lâu dài, hãy dùng YTLitePlusEXTRA. Nếu muốn app chạy như "hàng xịn" của Google, hãy dùng KiraTuno 2.0. Các bản còn lại chỉ nên dùng khi bạn có nhu cầu cực kỳ đặc thù như Gonerino (lọc từ khóa/kênh) hoặc YouMute (YouProEXTRA)
+=============
+
 https://github.com/Mine-Fork-Project/YTLitePlusEXTRA 
 
 https://github.com/Mine-Fork-Project/KiraTuno   FORK OF   [FREE ALTERNATIVE TWEAK: YouProEXTRA](https://github.com/oldman20/YouProEXTRA) Added extra features just like YTLitePlusEXTRA but for completely free
