@@ -32,7 +32,11 @@ https://github.com/iKarwan/YTKillerPlus
 
 https://github.com/driftywinds
 
-https://github.com/NeonKokoro/KiraTuno   |   https://www.reddit.com/r/sideloaded/comments/1su09sy/my_message_to_you_all_about_the_future_of_my/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button
+https://github.com/NeonKokoro/KiraTuno   |  https://github.com/NeonKokoro/KiraTuno2.0   |   https://www.reddit.com/r/sideloaded/comments/1su09sy/my_message_to_you_all_about_the_future_of_my/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button
+
+https://github.com/Mine-Fork-Project/KiraTuno
+
+https://github.com/Tonwalter888/YouMod
 
 **App crashing when trying to pause shorts or even when trying to play a video**
 
