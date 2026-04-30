@@ -17,7 +17,7 @@ Infuse 8.4.3
 
 FB 559.0.0
 
-Messenger 558.2.0
+Messenger 559.0.0
 
 =============
 <img width="1465" height="237" alt="image" src="https://github.com/user-attachments/assets/18a30adb-c019-44bd-bad6-ecdc506fde2a" />
