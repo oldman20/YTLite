@@ -68,7 +68,9 @@ https://github.com/34306/Patched-TS-App 1.0
 `C:\Users\Chuctran\AppData\Local\Sideloadly\MATERIALS`
 
 
- * Others: (For iOS15)
+ * Others:
+ * https://github.com/diarrhea3/YTLiteDiarrhea
+ *   (For iOS15)
  * https://github.com/diarrhea3/EeveeSpotifyDiarrhea
 ```
 https://github.com/diarrhea3/YTLiteDiarrhea
