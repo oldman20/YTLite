@@ -34,7 +34,7 @@ Lời khuyên cuối: Nếu muốn sự an tâm lâu dài, hãy dùng YTLitePlus
 
 https://github.com/Mine-Fork-Project/YTLitePlusEXTRA
 
-https://github.com/jaydenjcpy/YTLitePlusEXTRA
+https://github.com/Mine-Fork-Project/YTLitePlusEXTRA_X    |    https://github.com/jaydenjcpy/YTLitePlusEXTRA
 
 https://github.com/oldman20/KiraTuno2.0
 
