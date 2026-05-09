@@ -34,6 +34,8 @@ Lời khuyên cuối: Nếu muốn sự an tâm lâu dài, hãy dùng YTLitePlus
 
 https://github.com/Mine-Fork-Project/YTLitePlusEXTRA
 
+https://github.com/jaydenjcpy/YTLitePlusEXTRA
+
 https://github.com/oldman20/KiraTuno2.0
 
 https://github.com/Mine-Fork-Project/KiraTuno   FORK OF   [FREE ALTERNATIVE TWEAK: YouProEXTRA](https://github.com/oldman20/YouProEXTRA) Added extra features just like YTLitePlusEXTRA but for completely free
