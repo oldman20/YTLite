@@ -15,9 +15,9 @@ YTM 9.18.2 ~[v8.20.4 for iOS15]~
 
 Infuse 8.4.4
 
-FB 560.1.0
+FB 561.0.0
 
-Messenger 560.1.0
+Messenger 561.0.0
 
 =============
 <img width="1465" height="237" alt="image" src="https://github.com/user-attachments/assets/18a30adb-c019-44bd-bad6-ecdc506fde2a" />
