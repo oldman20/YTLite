@@ -69,6 +69,7 @@ https://github.com/34306/Patched-TS-App 1.0
 
 
  * Others:
+ * https://github.com/diarrhea3/EeveeSpotifyReincarnated-Diarrhea
  * https://github.com/diarrhea3/YTLiteDiarrhea
  *   (For iOS15)
  * https://github.com/diarrhea3/EeveeSpotifyDiarrhea
