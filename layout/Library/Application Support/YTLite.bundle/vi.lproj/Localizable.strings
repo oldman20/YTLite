@@ -539,7 +539,7 @@
 "RPC.DisableServerAlerts" = "Tắt thông báo máy chủ";
 "RPC.DisableServerAlertsDesc" = "Ngăn hiển thị thông báo khi không kết nối được đến máy chủ.";
 "RPC.Address" = "Địa chỉ máy chủ";
-"RPC.AddressDesc" = " Nhập địa chỉ được hiển thị trong ứng dụng YouTube Plus RPC trên máy tính của bạn.";
+"RPC.AddressDesc" = "Nhập địa chỉ được hiển thị trong ứng dụng YouTube Plus RPC trên máy tính của bạn.";
 
 "RPC.Information" = "Cấu hình máy chủ";
 "RPC.HowTo" = "Hướng dẫn thiết lập";
