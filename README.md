@@ -13,9 +13,9 @@ YTM 9.23.4 ~[v8.20.4 for iOS15]~
 
 **https://dvntm.com**
 
-Infuse 8.4.6
+Infuse 8.4.7
 
-FB 565.0.0
+FB 566.0.0
 
 Messenger 565.0.0
 
@@ -70,7 +70,7 @@ https://github.com/34306/Patched-TS-App 1.0
 
  * Others:
  * https://github.com/oldman20/EeveeSpotifyReincarnated-Diarrhea
- * https://github.com/diarrhea3/EeveeSpotifyReincarnated-Diarrhea  v9.1.50
+ * https://github.com/diarrhea3/EeveeSpotifyReincarnated-Diarrhea  v9.1.56
  * https://github.com/diarrhea3/YTLiteDiarrhea
  *   (For iOS15)
  * https://github.com/diarrhea3/EeveeSpotifyDiarrhea
