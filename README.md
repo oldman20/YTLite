@@ -44,7 +44,7 @@ https://github.com/Mine-Fork-Project/KiraTuno  (DROPBOX IPA LINK AVAILABLE)  FOR
 
 ~[Diutube](https://ios.codevn.net/diutube-for-youtube/)~
 
-https://github.com/iKarwan/YTKillerPlus
+~https://github.com/iKarwan/YTKillerPlus~
 
 https://github.com/driftywinds
 
