@@ -6,7 +6,7 @@ OR use https://catbox.moe/ keep files FOREVER
 
 YT 21.24.3 ~[Since v20.22.1 require iOS 16+, so v20.21.6 for iOS15]~
 
-YTM 9.23.4 ~[v8.20.4 for iOS15]~
+YTM 9.24.2 ~[v8.20.4 for iOS15]~
 
 [https://armconverter.com](https://armconverter.com/decryptedappstore/us/youtube)     ||      [https://decrypt.day](https://decrypt.day/search?q=youtube)  [arm = rootful || arm64 = rootless]
 
