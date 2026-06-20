@@ -1,7 +1,7 @@
 <p align="center">
   *After downloading recommend delete the release to avoid any problems with Go.ogle*
 
-https://filebin.net/edend3up6ectv10l 26/05/26 Expire
+https://filebin.net/edend3up6ectv10l 26/06/26 Expire
 OR use https://catbox.moe/ keep files FOREVER
 
 YT 21.24.3 ~[Since v20.22.1 require iOS 16+, so v20.21.6 for iOS15]~
