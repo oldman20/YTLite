@@ -39,9 +39,9 @@ https://github.com/Mark02-2012/YTPlusM
 
 https://github.com/oldman20/KiraTuno2.0
 
-https://github.com/Mine-Fork-Project/KiraTuno  (DROPBOX IPA LINK AVAILABLE)  FORK OF   [FREE ALTERNATIVE TWEAK: YouProEXTRA](https://github.com/oldman20/YouProEXTRA) Added extra features just like YTLitePlusEXTRA but for completely free
-
 [YouTubeOLED](https://apps.apptesters.org)
+
+https://github.com/diarrhea3/YTLiteDiarrhea  For iOS15
 
 ~[Diutube](https://ios.codevn.net/diutube-for-youtube/)~
 
@@ -56,7 +56,7 @@ it in settings > Tweaks > YouSlider`
 
 https://github.com/Lolendor/LBox/
 
-https://github.com/dayanch96/YTLite ~5.2 *REQUIRE SUBSCRIBE*~, USE 5.2B4 (has no PiP mode??)
+https://github.com/dayanch96/YTLite ~5.2 *REQUIRE SUBSCRIBE*~, USE 5.2B4
 
 https://github.com/thaibm92/YouPiP 1.12.7
 
@@ -70,13 +70,9 @@ https://github.com/34306/Patched-TS-App 1.0
  * Others:
  * https://github.com/oldman20/EeveeSpotifyReincarnated-Diarrhea   v9.1.58
  * ~https://github.com/diarrhea3/EeveeSpotifyDiarrhea~
-```
-https://github.com/diarrhea3/YTLiteDiarrhea  For iOS15
 
-Hello
-I created this YTLite fork and added more tweaks similar to YTLitePlus
-https://github.com/Tonwalter888/YTLitePlusEXTRA
-https://github.com/Thunderdaemon/YTLitePlusEXTRA   (Fork)
+```
+
 ```
 
 # YouTube Plus (ex. YTLite)
