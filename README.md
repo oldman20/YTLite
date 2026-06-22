@@ -47,8 +47,6 @@ https://github.com/Mine-Fork-Project/KiraTuno  (DROPBOX IPA LINK AVAILABLE)  FOR
 
 ~[Diutube](https://ios.codevn.net/diutube-for-youtube/)~
 
-~https://github.com/iKarwan/YTKillerPlus~
-
 https://github.com/driftywinds
 
 https://github.com/nikhilbadyal/docker-py-revanced
@@ -72,13 +70,10 @@ https://github.com/34306/Patched-TS-App 1.0
 
 
  * Others:
- * https://github.com/oldman20/EeveeSpotifyReincarnated-Diarrhea
- * https://github.com/diarrhea3/EeveeSpotifyReincarnated-Diarrhea  v9.1.58
- * https://github.com/diarrhea3/YTLiteDiarrhea
- *   (For iOS15)
+ * https://github.com/oldman20/EeveeSpotifyReincarnated-Diarrhea   v9.1.58
  * ~https://github.com/diarrhea3/EeveeSpotifyDiarrhea~
 ```
-https://github.com/diarrhea3/YTLiteDiarrhea
+https://github.com/diarrhea3/YTLiteDiarrhea  For iOS15
 
 Hello
 I created this YTLite fork and added more tweaks similar to YTLitePlus
