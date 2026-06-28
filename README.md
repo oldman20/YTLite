@@ -1,7 +1,7 @@
 <p align="center">
   *After downloading recommend delete the release to avoid any problems with Go.ogle*
 
-https://filebin.net/edend3up6ectv10l 30/06/26 Expire
+https://filebin.net/edend3up6ectv10l 04/07/26 Expire
 OR use https://catbox.moe/ keep files FOREVER
 
 YT 21.25.5 ~[Since v20.22.1 require iOS 16+, so v20.21.6 for iOS15]~
@@ -68,7 +68,7 @@ https://github.com/34306/Patched-TS-App 1.0
 
 
  * Others:
- * https://github.com/oldman20/EeveeSpotifyReincarnated-Diarrhea   v9.1.58
+ * https://github.com/oldman20/EeveeSpotifyReincarnated-Diarrhea   v9.1.60
  * ~https://github.com/diarrhea3/EeveeSpotifyDiarrhea~
 
 ```
