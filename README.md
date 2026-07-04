@@ -1,7 +1,7 @@
 <p align="center">
   *After downloading recommend delete the release to avoid any problems with Go.ogle*
 
-https://filebin.net/edend3up6ectv10l 06/07/26 Expire
+https://filebin.net/edend3up6ectv10l 10/07/26 Expire
 OR use https://catbox.moe/ keep files FOREVER
 
 YT 21.26.4 ~[Since v20.22.1 require iOS 16+, so v20.21.6 for iOS15]~
@@ -14,11 +14,11 @@ YTM 9.26.2 ~[v8.20.4 for iOS15]~
 
 **https://dvntm.com**
 
-Infuse 8.4.7
+Infuse 8.4.8
 
-FB 567.0.0
+FB 568.0.0
 
-Messenger 567.0.0
+Messenger 568.1.0
 
 =============
 <img width="1465" height="237" alt="image" src="https://github.com/user-attachments/assets/18a30adb-c019-44bd-bad6-ecdc506fde2a" />
