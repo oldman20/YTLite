@@ -1,12 +1,12 @@
 <p align="center">
   *After downloading recommend delete the release to avoid any problems with Go.ogle*
 
-https://filebin.net/edend3up6ectv10l 27/07/26 Expire
+https://filebin.net/edend3up6ectv10l 28/07/26 Expire
 OR use https://catbox.moe/ keep files FOREVER
 
 YT 21.29.03 ~[Since v20.22.1 require iOS 16+, so v20.21.6 for iOS15]~
 
-YTM 9.28.4 ~[v8.20.4 for iOS15]~
+YTM 9.29.3 ~[v8.20.4 for iOS15]~
 
 [https://armconverter.com](https://armconverter.com/decryptedappstore/us/youtube)     ||      [https://decrypt.day](https://decrypt.day/search?q=youtube)  [arm = rootful || arm64 = rootless]
 
@@ -18,7 +18,7 @@ Infuse 8.4.8
 
 FB 570.0.0
 
-Messenger 570.0.0
+Messenger 571.0.0
 
 =============
 <img width="1465" height="237" alt="image" src="https://github.com/user-attachments/assets/18a30adb-c019-44bd-bad6-ecdc506fde2a" />
@@ -68,7 +68,7 @@ https://github.com/34306/Patched-TS-App 1.0
 
 
  * Others:
- * https://github.com/oldman20/EeveeSpotifyReincarnated-Diarrhea   v9.1.62
+ * https://github.com/oldman20/EeveeSpotifyReincarnated-Diarrhea   v9.1.66
  * ~https://github.com/diarrhea3/EeveeSpotifyDiarrhea~
 
 ```
